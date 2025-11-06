@@ -1,6 +1,7 @@
-﻿# Interpretable Adversarial Attacks on Camouflaged Object Detection via Layer Segmented Activation Mapping
+﻿
+#  Interpretable Adversarial Attacks on Camouflaged Object Detection via Layer Segmented Activation Mapping
 
-> **Important Notice**: This repository contains the official implementation of the manuscript **"Interpretable Adversarial Attacks on Camouflaged Object Detection via Layer Segmented Activation Mapping"** currently under review at *The Visual Computer* journal.
+> **Important Notice**: This repository contains the official implementation of the manuscript **"Interpretable Adversarial Attacks on Camouflaged Object Detection via Layer Segmented Activation Mapping"**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +10,7 @@
 ## 🔗 Permanent Resources
 - **Source Code**: [GitHub Repository](https://github.com/Qiin1104/camouflage-detection-attack)
 - **DOI**: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
-- **Dataset**: *Not publicly available due to military sensitivity，If necessary, please contact the corresponding author*
+- **Dataset**: *Not publicly available due to military sensitivity*
 
 
 ## Project Overview
@@ -30,6 +31,7 @@ This project implements an adversarial attack method for camouflaged object dete
 | IdeNet | 0.723 | 0.618 | 14.6% |
 
 *White-box model
+![Comparison chart of attack effects](images/P6.pdf)
 
 ## Project Structure
 camouflage-detection-attack/  
@@ -167,6 +169,7 @@ To reproduce these results:
     
 -   Key files: `MyTesting.py`, `lib/`, `utils/`
 
+![Comprehensive Evaluation Metrics](images/Pm1.pdf)
 ## Key Parameters
 
 
@@ -213,3 +216,4 @@ If you use this code in your research, please cite our submitted paper:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 _Note: Each subproject maintains its own README and licensing. Please refer to individual directories for specific details._
+

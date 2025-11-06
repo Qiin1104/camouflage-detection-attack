@@ -1,5 +1,4 @@
-﻿
-# Interpretable Adversarial Attacks on Camouflaged Object Detection via Layer Segmented Activation Mapping
+﻿# Interpretable Adversarial Attacks on Camouflaged Object Detection via Layer Segmented Activation Mapping
 
 > **Important Notice**: This repository contains the official implementation of the manuscript **"Interpretable Adversarial Attacks on Camouflaged Object Detection via Layer Segmented Activation Mapping"** currently under review at *The Visual Computer* journal.
 

@@ -9,8 +9,8 @@
 
 ## 🔗 Permanent Resources
 - **Source Code**: [GitHub Repository](https://github.com/Qiin1104/camouflage-detection-attack)
-- **DOI**: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
-- **Dataset**: *Not publicly available due to military sensitivity*
+- **DOI**: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.17538737)
+- **Dataset**: *Not publicly available due to military sensitivity，If necessary, please contact the corresponding author*
 
 
 ## Project Overview

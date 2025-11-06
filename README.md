@@ -3,14 +3,14 @@
 
 > **Important Notice**: This repository contains the official implementation of the manuscript **"Interpretable Adversarial Attacks on Camouflaged Object Detection via Layer Segmented Activation Mapping"**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17538737.svg)](https://doi.org/10.5281/zenodo.17538737)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## 🔗 Permanent Resources
 - **Source Code**: [GitHub Repository](https://github.com/Qiin1104/camouflage-detection-attack)
 - **DOI**: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
-- **Dataset**: *Not publicly available due to military sensitivity，If necessary, please contact the corresponding author*
+- **Dataset**: *Not publicly available due to military sensitivity*
 
 
 ## Project Overview
@@ -56,7 +56,7 @@ camouflage-detection-attack/
 
 ### Prerequisites 
  Python 3.8+
-For ZoomNext / IdeNet / SINet-V2: PyTorch >= 1.9, CUDA 11.8 
+For ZoomNext / IdeNet / SINet-V2: PyTorch >= 1.9, CUDA 11.8 (示例安装)
   ```bash
   pip install torch==1.9.0+cu118 torchvision -f https://download.pytorch.org/whl/torch_stable.html
   pip install -r requirements.txt
@@ -198,7 +198,7 @@ If you use this code in your research, please cite our submitted paper:
   pages={},
   note={Submitted},
   url={https://github.com/Qiin1104/camouflage-detection-attack},
-  doi={10.5281/zenodo.XXXXXXX}
+  doi={10.5281/zenodo.17538737}
 }
 ```
 ## Contact

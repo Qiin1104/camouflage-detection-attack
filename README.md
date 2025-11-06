@@ -10,7 +10,7 @@
 ## 🔗 Permanent Resources
 - **Source Code**: [GitHub Repository](https://github.com/Qiin1104/camouflage-detection-attack)
 - **DOI**: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
-- **Dataset**: *Not publicly available due to military sensitivity*
+- **Dataset**: *Not publicly available due to military sensitivity，If necessary, please contact the corresponding author*
 
 
 ## Project Overview
@@ -56,7 +56,7 @@ camouflage-detection-attack/
 
 ### Prerequisites 
  Python 3.8+
-For ZoomNext / IdeNet / SINet-V2: PyTorch >= 1.9, CUDA 11.8 (示例安装)
+For ZoomNext / IdeNet / SINet-V2: PyTorch >= 1.9, CUDA 11.8 
   ```bash
   pip install torch==1.9.0+cu118 torchvision -f https://download.pytorch.org/whl/torch_stable.html
   pip install -r requirements.txt
